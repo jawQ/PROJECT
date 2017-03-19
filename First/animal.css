@@ -1,13 +1,13 @@
 @charset="UTF-8";
 
 #foot {
-	border:1px solid #000;
+/* 	border:1px solid #000; */
 }
 /* ͨ������: */
 body {
 	font:13px,"microsoft yahei";
 /* 	margin:0px; */
-	width:100%;
+/* 	width:100%; */
 	color:#636363;
 }
 ul,li,p,h1,h2,h3,h4,h5,h6,dd,dl {
@@ -19,7 +19,7 @@ ul,li,p,h1,h2,h3,h4,h5,h6,dd,dl {
 .lf {float:left;}
 .rf {float:right;}
 .clear {clear:both;}
-#nav,#top_main,#banner,#main,#foot_guide,#foot {
+#top,#nav,#top_main,#banner,#main,#foot_guide,#foot {
 	margin:0 auto;
 /*   	width:1211px; */
 }
