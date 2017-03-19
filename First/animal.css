@@ -20,7 +20,7 @@ ul,li,p,h1,h2,h3,h4,h5,h6,dd,dl {
 .clear {clear:both;}
 #nav,#top_main,#banner,#main,#foot_guide,#foot {
 	margin:0 auto;
-  	width:100%;
+/*   	width:100%; */
 }
 /* ===================������ͼ����====================== */
 #top {
@@ -72,6 +72,7 @@ ul,li,p,h1,h2,h3,h4,h5,h6,dd,dl {
 #nav {
 	height:70px;
 	background-color:#2B2B2B;
+	width:100%;
 }
 	#nav>#nav_box>ul.lf {
 
@@ -128,6 +129,7 @@ ul,li,p,h1,h2,h3,h4,h5,h6,dd,dl {
 #top_main {
 	height:175px;
 	background-color:#FDAD00;
+	width:100%;
 }
 	#pre_article {
 		width:1200px;
