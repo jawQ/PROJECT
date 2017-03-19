@@ -75,6 +75,7 @@ ul,li,p,h1,h2,h3,h4,h5,h6,dd,dl {
 	height:70px;
 	background-color:#2B2B2B;
 	width:100%;
+	margin:0 auto;
 }
 	#nav>#nav_box>ul.lf {
 
@@ -132,6 +133,7 @@ ul,li,p,h1,h2,h3,h4,h5,h6,dd,dl {
 	height:175px;
 	background-color:#FDAD00;
 	width:100%;
+	margin:0 auto;
 }
 	#pre_article {
 		width:1200px;
