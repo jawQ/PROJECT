@@ -19,7 +19,7 @@ ul,li,p,h1,h2,h3,h4,h5,h6,dd,dl {
 .lf {float:left;}
 .rf {float:right;}
 .clear {clear:both;}
-#top,#nav,#top_main,#banner,#main,#foot_guide,#foot {
+#top,#nav,#top_main,#main,#foot_guide,#foot {
 	margin:0 auto;
 /*   	width:1211px; */
 }
